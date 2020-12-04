@@ -1,6 +1,6 @@
 library(tidyverse)
 # read in data
-data1 <- read_lines(file = "D01_input.txt")
+data1 <- read_lines(file = "Day01_input.txt")
 # create identical copies
 dataA <- data1
 dataB <- data1
